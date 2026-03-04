@@ -1,0 +1,108 @@
+{
+"page": "pertemuan_4_mobile_computing_os",
+"data": [
+{
+"section": "header",
+"content": {
+"nama": "Pertemuan 4: Mobile Computing & Sistem Operasi Mobile",
+"tagline": "Mata Kuliah: Wireless & Mobile Computing (IMC804)",
+"deskripsi": "Mendalami arsitektur sistem operasi mobile, manajemen sumber daya terbatas, \ndan mekanisme keamanan sandboxing pada perangkat bergerak.",
+"cta": [
+{
+"text": "Struktur Kernel",
+"link": "#architecture",
+"icon": "setting"
+},
+{
+"text": "Latihan Soal",
+"link": "#quiz",
+"icon": "check"
+}
+]
+}
+},
+{
+"section": "stats",
+"caption": "Komponen Utama Mobile Computing",
+"content": [
+{
+"id": 1,
+"nama": "Mobile Hardware",
+"isi": "Smartphone, tablet, dan wearable dengan sensor terintegrasi.",
+"icon": "user/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 2,
+"nama": "Mobile Software",
+"isi": "Aplikasi yang dirancang khusus untuk karakteristik perangkat bergerak.",
+"icon": "code/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 3,
+"nama": "Media Komunikasi",
+"isi": "Infrastruktur nirkabel yang mendukung mobilitas data tanpa batas.",
+"icon": "info/32/var(--pColor)",
+"url": "#"
+}
+]
+},
+{
+"section": "progress",
+"caption": "Karakteristik Operasional OS",
+"content": [
+{
+"label": "Power Management (Baterai)",
+"percent": 90,
+"value": "Kritis"
+},
+{
+"label": "Memory Management (RAM)",
+"percent": 70,
+"value": "Terbatas"
+},
+{
+"label": "Bobot Penilaian Sesi 4",
+"percent": 5,
+"value": "5%"
+}
+]
+},
+{
+"section": "table",
+"caption": "Arsitektur & Mekanisme Kerja",
+"content": [
+{
+"Lapisan": "Kernel",
+"Deskripsi": "Interaksi langsung hardware (Contoh: Linux Kernel pada Android)"
+},
+{
+"Lapisan": "Middleware",
+"Deskripsi": "Library grafis, database (SQLite), dan multimedia"
+},
+{
+"Lapisan": "App Framework",
+"Deskripsi": "API untuk akses fitur perangkat (GPS, Kontak, Kamera)"
+},
+{
+"Mekanisme": "Sandboxing",
+"Deskripsi": "Isolasi aplikasi untuk keamanan data antar proses"
+},
+{
+"Mekanisme": "App Lifecycle",
+"Deskripsi": "Status aplikasi: Active, Paused, Stopped"
+}
+]
+},
+{
+"section": "btn",
+"btn": [
+{"text": "Menu","modal": "web/side/modules","icon": "menu"},
+{"text": "Kembali","url": "web/page/modul03","icon": "prev"},
+{"text": "Lanjut","url": "web/page/modul05","icon": "next"}
+]
+}
+
+]
+}

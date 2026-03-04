@@ -1,0 +1,103 @@
+{
+"page": "pertemuan_6_teknologi_mobile_web_aplikasi",
+"data": [
+{
+"section": "header",
+"content": {
+"nama": "Pertemuan 6: Teknologi Mobile Web dan Aplikasi",
+"tagline": "Mata Kuliah: Wireless & Mobile Computing (IMC804)",
+"deskripsi": "Mempelajari strategi pengembangan aplikasi berbasis web yang dioptimalkan \nuntuk perangkat bergerak, mencakup aspek responsivitas dan optimasi performa.",
+"cta": [
+{
+"text": "Media Queries",
+"link": "#css",
+"icon": "code"
+},
+{
+"text": "Latihan Soal",
+"link": "#quiz",
+"icon": "check"
+}
+]
+}
+},
+{
+"section": "stats",
+"caption": "Karakteristik Mobile Web",
+"content": [
+{
+"id": 1,
+"nama": "Aksesibilitas",
+"isi": "Akses langsung via URL tanpa perlu instalasi dari toko aplikasi.",
+"icon": "search/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 2,
+"nama": "Cross-Platform",
+"isi": "Satu basis kode untuk berbagai OS (Android, iOS, Windows).",
+"icon": "users/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 3,
+"nama": "Responsivitas",
+"isi": "Tata letak adaptif otomatis sesuai ukuran layar perangkat.",
+"icon": "menu/32/var(--pColor)",
+"url": "#"
+}
+]
+},
+{
+"section": "progress",
+"caption": "Pilar Optimasi Performa",
+"content": [
+{
+"label": "Minifikasi & Kompresi",
+"percent": 80,
+"value": "Cepat"
+},
+{
+"label": "Caching Strategi",
+"percent": 70,
+"value": "Efisien"
+},
+{
+"label": "Bobot Penilaian Sesi 6",
+"percent": 10,
+"value": "10%"
+}
+]
+},
+{
+"section": "table",
+"caption": "Perbandingan Strategi Pengembangan",
+"content": [
+{
+"Tipe": "Mobile Web",
+"Akses Hardware": "Sangat Terbatas",
+"Performa": "Standar Browser"
+},
+{
+"Tipe": "Native App",
+"Akses Hardware": "Penuh",
+"Performa": "Maksimal"
+},
+{
+"Tipe": "Hybrid App",
+"Akses Hardware": "Menengah (Wadah)",
+"Performa": "Menengah"
+}
+]
+},
+{
+"section": "btn",
+"btn": [
+{"text": "Menu","modal": "web/side/modules","icon": "menu"},
+{"text": "Kembali","url": "web/page/modul05","icon": "prev"},
+{"text": "Lanjut","url": "web/page/modul07","icon": "next"}
+]
+}
+
+]
+}

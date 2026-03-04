@@ -1,0 +1,108 @@
+{
+"page": "pertemuan_8_uts",
+"data": [
+{
+"section": "header",
+"content": {
+"nama": "Pertemuan 8: Evaluasi Tengah Semester (UTS)",
+"tagline": "Mata Kuliah: Wireless & Mobile Computing (IMC804)",
+"deskripsi": "Tahap penilaian formal untuk mengukur pencapaian kompetensi mahasiswa \nmengenai teori, konsep, dan operasi sistem dari Minggu 1 hingga Minggu 7.",
+"cta": [
+{
+"text": "Mulai Ujian",
+"link": "#start-exam",
+"icon": "lock"
+},
+{
+"text": "Panduan Teknis",
+"link": "#guidelines",
+"icon": "info"
+}
+]
+}
+},
+{
+"section": "stats",
+"caption": "Capaian Pembelajaran yang Diuji",
+"content": [
+{
+"id": 1,
+"nama": "Pemahaman Konsep",
+"isi": "Penguasaan definisi dan sejarah Wireless & Mobile Computing.",
+"icon": "book/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 2,
+"nama": "Analisis Teknis",
+"isi": "Kemampuan menganalisis tantangan infrastruktur nirkabel dan jaringan.",
+"icon": "search/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 3,
+"nama": "Fondasi Arsitektur",
+"isi": "Pemahaman mendalam tentang OS Mobile dan Strategi Web Mobile.",
+"icon": "setting/32/var(--pColor)",
+"url": "#"
+}
+]
+},
+{
+"section": "progress",
+"caption": "Komposisi Materi Ujian",
+"content": [
+{
+"label": "Infrastruktur & Jaringan",
+"percent": 35,
+"value": "35%"
+},
+{
+"label": "OS & Arsitektur Mobile",
+"percent": 35,
+"value": "35%"
+},
+{
+"label": "Mobile Web & Apps",
+"percent": 30,
+"value": "30%"
+}
+]
+},
+{
+"section": "table",
+"caption": "Ruang Lingkup & Format Evaluasi",
+"content": [
+{
+"Kategori": "Pokok Bahasan 1",
+"Detail": "Pengantar & Sejarah Wireless Computing"
+},
+{
+"Kategori": "Pokok Bahasan 2",
+"Detail": "Standar Jaringan (WPAN, WLAN, WMAN, WWAN)"
+},
+{
+"Kategori": "Pokok Bahasan 3",
+"Detail": "Arsitektur OS & Manajemen Memori"
+},
+{
+"Kategori": "Pokok Bahasan 4",
+"Detail": "Responsivitas Web (HTML5/CSS3) & Strategi Hybrid"
+},
+{
+"Kategori": "Bentuk Evaluasi",
+"Detail": "Tes Tertulis / Penugasan (Sesuai Kebijakan)"
+}
+]
+},
+{
+"section": "btn",
+"btn": [
+{"text": "Menu","modal": "web/side/modules","icon": "menu"},
+{"text": "Kembali","url": "web/page/modul07","icon": "prev"},
+{"text": "Lanjut","url": "web/page/modul09","icon": "next"}
+]
+}
+
+]
+}

@@ -1,0 +1,104 @@
+{
+"page": "pertemuan_14_tantangan_tren_mobile",
+"data": [
+{
+"section": "header",
+"content": {
+"nama": "Pertemuan 14: Tantangan dan Tren Komputasi Bergerak",
+"tagline": "Mata Kuliah: Wireless & Mobile Computing (IMC804)",
+"deskripsi": "Membahas isu krusial keamanan, keterbatasan sumber daya, \ndan arah masa depan teknologi nirkabel seperti 5G/6G, IoT, serta Edge Computing.",
+"cta": [
+{
+"text": "Eksplorasi 5G/6G",
+"link": "#future-tech",
+"icon": "info"
+},
+{
+"text": "Materi Keamanan",
+"link": "#security",
+"icon": "lock"
+}
+]
+}
+},
+{
+"section": "stats",
+"caption": "Tantangan Utama Ekosistem Mobile",
+"content": [
+{
+"id": 1,
+"nama": "Security & Privacy",
+"isi": "Perlindungan data sensitif dari penyadapan jaringan publik dan malware.",
+"icon": "lock/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 2,
+"nama": "Resource Limits",
+"isi": "Efisiensi baterai untuk kebutuhan komputasi AI dan grafis tinggi.",
+"icon": "setting/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 3,
+"nama": "Heterogenitas",
+"isi": "Keberagaman perangkat, layar, dan OS yang menuntut skalabilitas aplikasi.",
+"icon": "users/32/var(--pColor)",
+"url": "#"
+}
+]
+},
+{
+"section": "progress",
+"caption": "Evolusi Teknologi & Keamanan",
+"content": [
+{
+"label": "Implementasi WPA3 & MFA",
+"percent": 90,
+"value": "Tinggi"
+},
+{
+"label": "Adopsi Edge Computing",
+"percent": 70,
+"value": "Berkembang"
+},
+{
+"label": "Bobot Penilaian Sesi 14",
+"percent": 10,
+"value": "10%"
+}
+]
+},
+{
+"section": "table",
+"caption": "Tren Teknologi Masa Depan",
+"content": [
+{
+"Teknologi": "Internet of Things (IoT)",
+"Dampak": "Smartphone sebagai pusat kendali Smart Home & City"
+},
+{
+"Teknologi": "5G & 6G Roadmap",
+"Dampak": "Latensi ultra-rendah dan konektivitas jutaan perangkat"
+},
+{
+"Teknologi": "Edge Computing",
+"Dampak": "Pemrosesan lokal untuk kurangi beban bandwidth Cloud"
+},
+{
+"Teknologi": "On-Device AI",
+"Dampak": "Pemanfaatan NPU untuk kecerdasan buatan lokal"
+}
+]
+},
+{
+"section": "btn",
+"btn": [
+{"text": "Menu","modal": "web/side/modules","icon": "menu"},
+{"text": "Kembali","url": "web/page/modul13","icon": "prev"},
+{"text": "Lanjut","url": "web/page/modul15","icon": "next"}
+]
+}
+
+]
+}

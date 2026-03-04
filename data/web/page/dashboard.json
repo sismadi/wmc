@@ -1,0 +1,114 @@
+{
+  "page": "dashboard_mahasiswa_imc804",
+  "data": [
+    {
+      "section": "header",
+      "content": {
+        "nama": "Halo, Mahasiswa!",
+        "tagline": "Dashboard Pembelajaran Wireless & Mobile Computing",
+        "deskripsi": "Pantau progres perkuliahan Anda di sini. \nPastikan untuk menyelesaikan modul mingguan dan mempersiapkan Proyek UAS 'Offline-First'.",
+        "cta": [
+          {
+            "text": "Lanjutkan Materi",
+            "link": "#pertemuan_9",
+            "icon": "book"
+          },
+          {
+            "text": "Status Proyek",
+            "link": "#project_status",
+            "icon": "code"
+          }
+        ]
+      }
+    },
+    {
+      "section": "stats",
+      "caption": "Ringkasan Akademik",
+      "content": [
+        {
+          "id": 1,
+          "nama": "Kehadiran",
+          "isi": "12 dari 14 Sesi",
+          "icon": "user/32/var(--pColor)",
+          "url": "#absensi"
+        },
+        {
+          "id": 2,
+          "nama": "Tugas Selesai",
+          "isi": "85% Komplit",
+          "icon": "check/32/var(--pColor)",
+          "url": "#tugas"
+        },
+        {
+          "id": 3,
+          "nama": "Status Koneksi",
+          "isi": "Online (Sync Aktif)",
+          "icon": "info/32/var(--pColor)",
+          "url": "#sync"
+        }
+      ]
+    },
+    {
+      "section": "progress",
+      "caption": "Progres Kurikulum",
+      "content": [
+        {
+          "label": "Modul 1-7 (Infrastruktur & OS)",
+          "percent": 100,
+          "value": "Selesai"
+        },
+        {
+          "label": "Modul 9-14 (PWA & Database)",
+          "percent": 60,
+          "value": "On Progress"
+        },
+        {
+          "label": "Persiapan Proyek UAS",
+          "percent": 25,
+          "value": "Drafting"
+        }
+      ]
+    },
+    {
+      "section": "table",
+      "caption": "Agenda Mendatang",
+      "content": [
+        {
+          "Tanggal": "12 Maret 2026",
+          "Kegiatan": "Review Modul 15",
+          "Status": "Persiapan"
+        },
+        {
+          "Tanggal": "19 Maret 2026",
+          "Kegiatan": "Deadline Proyek UAS",
+          "Status": "Penting"
+        },
+        {
+          "Tanggal": "21 Maret 2026",
+          "Kegiatan": "Evaluasi Akhir (UAS)",
+          "Status": "Ujian"
+        }
+      ]
+    },
+    {
+      "section": "btn",
+      "btn": [
+        {
+          "text": "Repository Kode",
+          "url": "#github",
+          "icon": "code"
+        },
+        {
+          "text": "Bantuan & FAQ",
+          "url": "#help",
+          "icon": "search"
+        },
+        {
+          "text": "Pengaturan Akun",
+          "url": "#settings",
+          "icon": "setting"
+        }
+      ]
+    }
+  ]
+}

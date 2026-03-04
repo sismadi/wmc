@@ -1,0 +1,104 @@
+{
+"page": "pertemuan_13_mobile_ux_ui_lanjutan",
+"data": [
+{
+"section": "header",
+"content": {
+"nama": "Pertemuan 13: Mobile UX & Desain Antarmuka Lanjutan",
+"tagline": "Mata Kuliah: Wireless & Mobile Computing (IMC804)",
+"deskripsi": "Pendalaman teknik perancangan antarmuka kompleks, pola interaksi modern, \ndan metode evaluasi pengalaman pengguna (UX) standar industri.",
+"cta": [
+{
+"text": "Panduan Material",
+"link": "#material-design",
+"icon": "book"
+},
+{
+"text": "Tugas Evaluasi",
+"link": "#ux-test",
+"icon": "check"
+}
+]
+}
+},
+{
+"section": "stats",
+"caption": "Pola Desain & Interaksi Modern",
+"content": [
+{
+"id": 1,
+"nama": "Progressive Disclosure",
+"isi": "Menyembunyikan fitur kompleks untuk menjaga layar tetap bersih dan fokus.",
+"icon": "menu/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 2,
+"nama": "Skeleton Screens",
+"isi": "Placeholder visual saat pemuatan data untuk persepsi kecepatan aplikasi.",
+"icon": "info/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 3,
+"nama": "Advanced Gestures",
+"isi": "Implementasi long press, swipe to dismiss, dan drag-and-drop.",
+"icon": "user/32/var(--pColor)",
+"url": "#"
+}
+]
+},
+{
+"section": "progress",
+"caption": "Aksesibilitas & Kualitas Desain",
+"content": [
+{
+"label": "Contrast & Accessibility Compliance",
+"percent": 95,
+"value": "Sangat Penting"
+},
+{
+"label": "Usability Testing Validity",
+"percent": 80,
+"value": "Tinggi"
+},
+{
+"label": "Bobot Penilaian Sesi 13",
+"percent": 10,
+"value": "10%"
+}
+]
+},
+{
+"section": "table",
+"caption": "Metode Evaluasi & Alur Kerja",
+"content": [
+{
+"Metode": "Usability Testing",
+"Kegunaan": "Mengamati hambatan navigasi pada pengguna asli."
+},
+{
+"Metode": "A/B Testing",
+"Kegunaan": "Membandingkan dua versi desain untuk konversi terbaik."
+},
+{
+"Metode": "Heuristic Evaluation",
+"Kegunaan": "Menilai desain berdasarkan konsistensi dan pencegahan error."
+},
+{
+"Proses": "Design Handover",
+"Kegunaan": "Penyerahan aset dan spesifikasi visual ke Developer."
+}
+]
+},
+{
+"section": "btn",
+"btn": [
+{"text": "Menu","modal": "web/side/modules","icon": "menu"},
+{"text": "Kembali","url": "web/page/modul12","icon": "prev"},
+{"text": "Lanjut","url": "web/page/modul14","icon": "next"}
+]
+}
+
+]
+}

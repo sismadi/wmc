@@ -1,0 +1,104 @@
+{
+"page": "pertemuan_9_mobile_web_lanjutan",
+"data": [
+{
+"section": "header",
+"content": {
+"nama": "Pertemuan 9: Teknologi Mobile Web dan Aplikasi Lanjutan",
+"tagline": "Mata Kuliah: Wireless & Mobile Computing (IMC804)",
+"deskripsi": "Mendalami fitur Progressive Web Apps (PWA), integrasi Web API, \ndan strategi caching canggih untuk menciptakan pengalaman web yang menyerupai aplikasi native.",
+"cta": [
+{
+"text": "Eksplorasi PWA",
+"link": "#pwa-features",
+"icon": "code"
+},
+{
+"text": "Latihan Web API",
+"link": "#api-task",
+"icon": "check"
+}
+]
+}
+},
+{
+"section": "stats",
+"caption": "Fitur Ekosistem Web Modern",
+"content": [
+{
+"id": 1,
+"nama": "Web API Integration",
+"isi": "Akses langsung ke GPS, Kamera, dan sensor perangkat melalui browser modern.",
+"icon": "search/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 2,
+"nama": "Service Workers",
+"isi": "Skrip latar belakang untuk Push Notifications dan pengelolaan cache cerdas.",
+"icon": "setting/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 3,
+"nama": "Secure Auth",
+"isi": "Implementasi JWT dan HTTPS untuk menjaga sesi di jaringan nirkabel publik.",
+"icon": "lock/32/var(--pColor)",
+"url": "#"
+}
+]
+},
+{
+"section": "progress",
+"caption": "Optimasi & Responsivitas Lanjutan",
+"content": [
+{
+"label": "Advanced Caching (Offline Support)",
+"percent": 85,
+"value": "Stabil"
+},
+{
+"label": "Asynchronous Data (Fetch API)",
+"percent": 90,
+"value": "Responsif"
+},
+{
+"label": "Bobot Penilaian Sesi 9",
+"percent": 5,
+"value": "5%"
+}
+]
+},
+{
+"section": "table",
+"caption": "Strategi Operasional Aplikasi Web",
+"content": [
+{
+"Metode": "PWA",
+"Kelebihan": "Installable, Offline Mode, Ikon Layar Utama"
+},
+{
+"Metode": "Caching",
+"Kelebihan": "Strategi Stale-while-revalidate untuk kecepatan"
+},
+{
+"Metode": "Layout",
+"Kelebihan": "CSS Grid & Flexbox untuk orientasi dinamis"
+},
+{
+"Metode": "Keamanan",
+"Kelebihan": "Token-based Authentication (JWT)"
+}
+]
+},
+{
+"section": "btn",
+"btn": [
+{"text": "Menu","modal": "web/side/modules","icon": "menu"},
+{"text": "Kembali","url": "web/page/modul08","icon": "prev"},
+{"text": "Lanjut","url": "web/page/modul10","icon": "next"}
+]
+}
+
+]
+}

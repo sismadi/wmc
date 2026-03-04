@@ -1,0 +1,108 @@
+{
+"page": "pertemuan_15_review_uas",
+"data": [
+{
+"section": "header",
+"content": {
+"nama": "Pertemuan 15: Review Komprehensif (Persiapan UAS)",
+"tagline": "Mata Kuliah: Wireless & Mobile Computing (IMC804)",
+"deskripsi": "Sesi pengulasan materi pasca-UTS (Minggu 9-14) untuk memperkuat pemahaman \nteknis tingkat lanjut mengenai database, UX, dan tren teknologi masa depan.",
+"cta": [
+{
+"text": "Kisi-kisi UAS",
+"link": "#exam-outline",
+"icon": "book"
+},
+{
+"text": "Forum Diskusi",
+"link": "#forum",
+"icon": "users"
+}
+]
+}
+},
+{
+"section": "stats",
+"caption": "Pilar Utama Materi UAS",
+"content": [
+{
+"id": 1,
+"nama": "Mobile Data",
+"isi": "PWA, SQLite, Delta Sync, dan mekanisme resolusi konflik data.",
+"icon": "code/32/var(--pColor)",
+"url": "#modul-3"
+},
+{
+"id": 2,
+"nama": "Advanced UX",
+"isi": "Thumb Zone, Skeleton Screens, Aksesibilitas, dan Usability Testing.",
+"icon": "user/32/var(--pColor)",
+"url": "#modul-4"
+},
+{
+"id": 3,
+"nama": "Future Trends",
+"isi": "Keamanan WPA3, 5G/6G, IoT, dan pemanfaatan Edge Computing.",
+"icon": "info/32/var(--pColor)",
+"url": "#modul-5"
+}
+]
+},
+{
+"section": "progress",
+"caption": "Kesiapan Evaluasi Akhir",
+"content": [
+{
+"label": "Penguasaan Modul III & IV",
+"percent": 90,
+"value": "Sangat Penting"
+},
+{
+"label": "Analisis Kasus Praktis",
+"percent": 85,
+"value": "Tinggi"
+},
+{
+"label": "Bobot Penilaian Sesi 15",
+"percent": 10,
+"value": "10%"
+}
+]
+},
+{
+"section": "table",
+"caption": "Ringkasan Teknis Persiapan UAS",
+"content": [
+{
+"Topik": "Mobile Database",
+"Fokus Utama": "Offline-first & Data Synchronization",
+"Kunci": "Delta Sync"
+},
+{
+"Topik": "User Experience",
+"Fokus Utama": "Heuristic Evaluation & Accessibility",
+"Kunci": "44x44px Target"
+},
+{
+"Topik": "Network & Security",
+"Fokus Utama": "WPA3 & Multi-Factor Authentication",
+"Kunci": "Enkripsi"
+},
+{
+"Topik": "Future Tech",
+"Fokus Utama": "Edge Computing & NPU (AI Mobile)",
+"Kunci": "Latensi Rendah"
+}
+]
+},
+{
+"section": "btn",
+"btn": [
+{"text": "Menu","modal": "web/side/modules","icon": "menu"},
+{"text": "Kembali","url": "web/page/modul14","icon": "prev"},
+{"text": "Lanjut","url": "web/page/modul16","icon": "next"}
+]
+}
+
+]
+}

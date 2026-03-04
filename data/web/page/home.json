@@ -1,0 +1,162 @@
+{
+  "page": "home",
+  "data": [
+
+    {
+      "section": "header",
+      "content": {
+        "nama": "Wireless & Mobile Computing",
+        "icon": "device/150/var(--pColor)-var(--pLightColor)",
+        "icon2": "wifi/150/var(--pColor)-var(--pLightColor)",
+        "tagline": "Kode MK: IMC804 | Kurikulum Informatika",
+        "deskripsi": "Selamat datang di ekosistem komputasi bergerak. \nDi sini, Anda tidak hanya belajar jaringan, tetapi membangun solusi 'Offline-First' \ndengan teknologi Web modern dan manajemen data lokal yang presisi. \n  Mata kuliah ini mengeksplorasi ekosistem komputasi nirkabel, mulai dari infrastruktur jaringan (5G/Wi-Fi), arsitektur OS Mobile, hingga pengembangan aplikasi modern berbasis Progressive Web Apps (PWA) dan sinkronisasi data database mobile.",
+        "cta": [
+          {
+            "text": "Mulai Belajar",
+            "modal": "web/side/modules",
+            "icon": "menu/24/white"
+          },
+          {
+            "text": "Unduh RPS",
+            "link": "#download_rps",
+            "icon": "book/24/white"
+          }
+        ]
+      }
+    },
+    {
+      "section": "stats",
+      "caption": "10 Detail Utama Mata Kuliah",
+      "content": [
+        {
+          "id": 1,
+          "nama": "Fokus Utama",
+          "isi": "Integrasi PWA, Arsitektur Jaringan, & Database Mobile.",
+          "icon": "home/32/var(--pColor)",
+          "url": "#"
+        },
+        {
+          "id": 2,
+          "nama": "Prasyarat",
+          "isi": "Dasar Pemrograman Web (JS) & Basis Data.",
+          "icon": "lock/32/var(--pColor)",
+          "url": "#"
+        },
+        {
+          "id": 3,
+          "nama": "Tech Stack",
+          "isi": "SQLite, Service Workers, Manifest, & Browser API.",
+          "icon": "code/32/var(--pColor)",
+          "url": "#"
+        },
+        {
+          "id": 4,
+          "nama": "Konsep Unggulan",
+          "isi": "Offline-First: Tetap jalan tanpa internet.",
+          "icon": "check/32/var(--pColor)",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "section": "progress",
+      "caption": "Parameter Kelulusan & Output",
+      "content": [
+        {
+          "label": "Teori (UTS & Tugas)",
+          "percent": 60,
+          "value": "60%"
+        },
+        {
+          "label": "Proyek UAS (PWA App)",
+          "percent": 40,
+          "value": "40%"
+        }
+      ]
+    },
+    {
+      "section": "table",
+      "caption": "Detail Strategis Sesi",
+      "content": [
+        {
+          "Poin": "Cakupan Jaringan",
+          "Deskripsi": "WPAN, WLAN, WMAN, dan WWAN (5G/6G)"
+        },
+        {
+          "Poin": "Standar Desain",
+          "Deskripsi": "Mobile UX (Thumb Zone & 44px Touch Target)"
+        },
+        {
+          "Poin": "Manajemen Data",
+          "Deskripsi": "Incremental Sync & Conflict Resolution"
+        },
+        {
+          "Poin": "Isu Etika",
+          "Deskripsi": "Digital Wellbeing & Keamanan Privasi"
+        },
+        {
+          "Poin": "Luaran Portofolio",
+          "Deskripsi": "Aplikasi Task & Sync yang 'Installable'"
+        }
+      ]
+    },
+    {
+      "section": "stats",
+      "caption": "tentang",
+      "content": [
+        {"icon": "piawai/150", "title": "Filosofi", "desc": "Teknologi yang baik adalah yang tidak terlihat, namun membuat segalanya terasa mungkin." }
+      ]
+    },
+
+    {
+      "section": "stats",
+      "caption": "app",
+      "content": [
+        { "title": "Modul 1", "desc": "Pengenalan Wireless & Mobile Computing.", "icon": "wallet","url":"web/page/modul01" },
+        { "title": "Modul 2", "desc": "Teori dan Operasi Komputasi Bergerak.", "icon": "wallet","url":"web/page/modul02" },
+        { "title": "Modul 3", "desc": "Teknologi Jaringan Nirkabel.", "icon": "wallet","url":"web/page/modul03" },
+        { "title": "Modul 4", "desc": "Mobile Computing & Sistem Operasi Mobile.", "icon": "wallet","url":"web/page/modul04" }
+      ]
+    },
+
+    {
+      "section": "stats",
+      "caption": "app",
+      "content": [
+        { "title": "Modul 5", "desc": "Mobile Computing & OS Lanjutan.", "icon": "wallet","url":"web/page/modul05" },
+        { "title": "Modul 6", "desc": "Teknologi Mobile Web dan Aplikasi.", "icon": "wallet","url":"web/page/modul06" },
+        { "title": "Modul 7", "desc": "Review Komprehensif (Persiapan UTS).", "icon": "wallet","url":"web/page/modul07" },
+        { "title": "UTS", "desc": "Evaluasi Tengah Semester (UTS).", "icon": "wallet","url":"web/page/modul08" }
+      ]
+    },
+    {
+      "section": "stats",
+      "caption": "app",
+      "content": [
+        { "title": "Modul 9", "desc": "Teknologi Mobile Web dan Aplikasi Lanjutan.", "icon": "wallet","url":"web/page/modul09" },
+        { "title": "Modul 10", "desc": "Mobile Database & Data Synchronization (Dasar).", "icon": "wallet","url":"web/page/modul10" },
+        { "title": "Modul 11", "desc": "Mobile Database & Data Synchronization (Lanjutan).", "icon": "wallet","url":"web/page/modul11" },
+        { "title": "Modul 12", "desc": "Mobile User Experience (UX) & Desain Antarmuka Dasar.", "icon": "wallet","url":"web/page/modul12" }
+      ]
+    },
+    {
+      "section": "stats",
+      "caption": "app",
+      "content": [
+        { "title": "Modul 13", "desc": "Mobile UX & Desain Antarmuka Lanjutan.", "icon": "wallet","url":"web/page/modul13" },
+        { "title": "Modul 14", "desc": "Tantangan dan Tren Komputasi Bergerak.", "icon": "wallet","url":"web/page/modul14" },
+        { "title": "Modul 15", "desc": "Review Komprehensif (Persiapan UAS).", "icon": "wallet","url":"web/page/modul15" },
+        { "title": "UTS", "desc": "Evaluasi Akhir Semester (UAS) - Berbasis Proyek.", "icon": "wallet","url":"web/page/modul16" }
+      ]
+    },
+
+
+    {
+      "section": "stats",
+      "caption": "tentangs",
+      "content": [
+        {"icon": "piawai/150", "title": "Filosofi", "desc": "Teknologi yang baik adalah yang tidak terlihat, namun membuat segalanya terasa mungkin." }
+      ]
+    }
+  ]
+}

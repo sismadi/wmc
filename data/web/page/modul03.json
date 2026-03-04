@@ -1,0 +1,108 @@
+{
+"page": "pertemuan_3_teknologi_jaringan_nirkabel",
+"data": [
+{
+"section": "header",
+"content": {
+"nama": "Pertemuan 3: Teknologi Jaringan Nirkabel",
+"tagline": "Mata Kuliah: Wireless & Mobile Computing (IMC804)",
+"deskripsi": "Fokus pada infrastruktur fisik, klasifikasi cakupan geografis, \ndan protokol standar yang memungkinkan komunikasi data tanpa kabel.",
+"cta": [
+{
+"text": "Materi IEEE",
+"link": "#protocol",
+"icon": "code"
+},
+{
+"text": "Latihan Soal",
+"link": "#quiz",
+"icon": "check"
+}
+]
+}
+},
+{
+"section": "stats",
+"caption": "Klasifikasi Jaringan (Coverage)",
+"content": [
+{
+"id": 1,
+"nama": "WPAN & WLAN",
+"isi": "Cakupan personal (Bluetooth) hingga area lokal gedung (Wi-Fi).",
+"icon": "home/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 2,
+"nama": "WMAN & WWAN",
+"isi": "Cakupan area kota (WiMAX) hingga luas geografis (4G/5G).",
+"icon": "users/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 3,
+"nama": "Media Transmisi",
+"isi": "Pemanfaatan Gelombang Radio, Microwave, dan Inframerah.",
+"icon": "info/32/var(--pColor)",
+"url": "#"
+}
+]
+},
+{
+"section": "progress",
+"caption": "Parameter Pembelajaran",
+"content": [
+{
+"label": "Penguasaan Spektrum Frekuensi",
+"percent": 75,
+"value": "Tinggi"
+},
+{
+"label": "Pemahaman Protokol IEEE",
+"percent": 85,
+"value": "Sangat Baik"
+},
+{
+"label": "Bobot Penilaian Sesi 3",
+"percent": 5,
+"value": "5%"
+}
+]
+},
+{
+"section": "table",
+"caption": "Standarisasi & Topologi",
+"content": [
+{
+"Kategori": "Standar IEEE 802.11",
+"Keterangan": "Teknologi WLAN (Wi-Fi)"
+},
+{
+"Kategori": "Standar IEEE 802.15",
+"Keterangan": "Teknologi WPAN (Bluetooth)"
+},
+{
+"Kategori": "Standar IEEE 802.16",
+"Keterangan": "Teknologi WMAN (WiMAX)"
+},
+{
+"Kategori": "Ad-Hoc Mode",
+"Keterangan": "Komunikasi antar perangkat secara langsung"
+},
+{
+"Kategori": "Infrastructure Mode",
+"Keterangan": "Komunikasi melalui Access Point/Base Station"
+}
+]
+},
+{
+"section": "btn",
+"btn": [
+{"text": "Menu","modal": "web/side/modules","icon": "menu"},
+{"text": "Kembali","url": "web/page/modul02","icon": "prev"},
+{"text": "Lanjut","url": "web/page/modul04","icon": "next"}
+]
+}
+
+]
+}

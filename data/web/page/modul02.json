@@ -1,0 +1,110 @@
+{
+"page": "pertemuan_2_teori_operasi_wireless_mobile",
+"data": [
+{
+"section": "header",
+"content": {
+"nama": "Pertemuan 2: Teori dan Operasi Komputasi Bergerak",
+"tagline": "Mata Kuliah: Wireless & Mobile Computing (IMC804)",
+"deskripsi": "Sesi ini mendalami mekanisme penggerak ekosistem mobile, \nmulai dari mobilitas perangkat hingga arsitektur jaringan nirkabel dan isu operasionalnya.",
+"cta": [
+{
+"text": "Lihat Silabus",
+"link": "#silabus",
+"icon": "book"
+},
+{
+"text": "Latihan Soal",
+"link": "#latihan",
+"icon": "code"
+}
+]
+}
+},
+{
+"section": "stats",
+"caption": "Tiga Elemen Utama Mobilitas",
+"content": [
+{
+"id": 1,
+"nama": "Device Mobility",
+"isi": "Kemampuan perangkat tetap terhubung saat berpindah lokasi fisik.",
+"icon": "home/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 2,
+"nama": "User Mobility",
+"isi": "Akses layanan yang konsisten dari berbagai perangkat atau lokasi berbeda.",
+"icon": "user/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 3,
+"nama": "Service Mobility",
+"isi": "Kemampuan layanan untuk 'mengikuti' pengguna di mana pun berada.",
+"icon": "setting/32/var(--pColor)",
+"url": "#"
+}
+]
+},
+{
+"section": "progress",
+"caption": "Karakteristik & Tantangan Sistem",
+"content": [
+{
+"label": "Bandwidth (Keterbatasan Kecepatan)",
+"percent": 60,
+"value": "Terbatas"
+},
+{
+"label": "Sumber Daya (Baterai & CPU)",
+"percent": 40,
+"value": "Minim"
+},
+{
+"label": "Bobot Penilaian Sesi 2",
+"percent": 5,
+"value": "5%"
+}
+]
+},
+{
+"section": "table",
+"caption": "Arsitektur & Isu Operasional",
+"content": [
+{
+"Komponen": "Terminal Mobile",
+"Fungsi": "Perangkat akhir pengguna (Smartphone/Tablet)"
+},
+{
+"Komponen": "Base Station (BTS)",
+"Fungsi": "Titik akses utama perangkat ke jaringan inti"
+},
+{
+"Komponen": "Core Network",
+"Fungsi": "Manajemen autentikasi, data, dan koneksi internet"
+},
+{
+"Isu Teknis": "Handoff / Handover",
+"Deskripsi": "Pengalihan koneksi antar BTS tanpa putus sesi"
+},
+{
+"Isu Teknis": "Location Management",
+"Deskripsi": "Pelacakan posisi perangkat untuk pengiriman data"
+}
+]
+},
+
+{
+"section": "btn",
+"btn": [
+{"text": "Menu","modal": "web/side/modules","icon": "menu"},
+{"text": "Kembali","url": "web/page/modul01","icon": "prev"},
+{"text": "Lanjut","url": "web/page/modul03","icon": "next"}
+]
+}
+
+
+]
+}

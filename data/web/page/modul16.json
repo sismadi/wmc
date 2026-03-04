@@ -1,0 +1,112 @@
+{
+"page": "uas_proyek_smart_mobile_task_sync",
+"data": [
+{
+"section": "header",
+"content": {
+"nama": "Evaluasi Akhir Semester (UAS) - Berbasis Proyek",
+"tagline": "Mata Kuliah: Wireless & Mobile Computing (IMC804)",
+"deskripsi": "Proyek Pengembangan Aplikasi 'Smart-Mobile Task & Sync'. \nUji integrasi desain antarmuka, penyimpanan lokal, dan fitur Progressive Web App (PWA).",
+"cta": [
+{
+"text": "Kirim Repository",
+"link": "#submit-github",
+"icon": "code"
+},
+{
+"text": "Panduan Lighthouse",
+"link": "#lighthouse-tutorial",
+"icon": "info"
+}
+]
+}
+},
+{
+"section": "stats",
+"caption": "Pilar Utama Proyek",
+"content": [
+{
+"id": 1,
+"nama": "Arsitektur PWA",
+"isi": "Implementasi Manifest.json dan Service Workers untuk instalasi serta akses offline.",
+"icon": "home/32/var(--pColor)",
+"url": "#pwa-req"
+},
+{
+"id": 2,
+"nama": "Offline-First Data",
+"isi": "Penyimpanan lokal menggunakan IndexedDB/LocalStorage dengan mekanisme sinkronisasi.",
+"icon": "lock/32/var(--pColor)",
+"url": "#data-req"
+},
+{
+"id": 3,
+"nama": "Mobile UX",
+"isi": "Optimasi Thumb Zone, Responsive Grid, dan penggunaan Skeleton Screens.",
+"icon": "user/32/var(--pColor)",
+"url": "#ux-req"
+}
+]
+},
+{
+"section": "progress",
+"caption": "Bobot Penilaian Proyek",
+"content": [
+{
+"label": "Fungsionalitas PWA & Offline",
+"percent": 30,
+"value": "30%"
+},
+{
+"label": "Manajemen Data & Sinkronisasi",
+"percent": 30,
+"value": "30%"
+},
+{
+"label": "Kualitas UX/UI & Responsivitas",
+"percent": 20,
+"value": "20%"
+},
+{
+"label": "Kode & Dokumentasi",
+"percent": 20,
+"value": "20%"
+}
+]
+},
+{
+"section": "table",
+"caption": "Spesifikasi Teknis Wajib",
+"content": [
+{
+"Komponen": "Frontend",
+"Persyaratan": "SPA (Single Page Application) - React/Vue/Vanilla JS"
+},
+{
+"Komponen": "PWA Core",
+"Persyaratan": "Service Worker Caching & Web Manifest"
+},
+{
+"Komponen": "Storage",
+"Persyaratan": "IndexedDB / LocalStorage (Persistent)"
+},
+{
+"Komponen": "Sync",
+"Persyaratan": "Background Sync Simulation / Mock API"
+},
+{
+"Komponen": "UI Feedback",
+"Persyaratan": "Online/Offline Status Indicator & Skeleton Screen"
+}
+]
+},
+{
+"section": "btn",
+"btn": [
+{"text": "Menu","modal": "web/side/modules","icon": "menu"},
+{"text": "Kembali","url": "web/page/modul15","icon": "prev"}
+]
+}
+
+]
+}

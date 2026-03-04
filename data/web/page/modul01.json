@@ -1,0 +1,104 @@
+{
+"page": "pertemuan_1_wireless_mobile_computing",
+"data": [
+{
+"section": "header",
+"content": {
+"nama": "Pertemuan 1: Pengenalan Wireless & Mobile Computing",
+"tagline": "Mata Kuliah: Wireless & Mobile Computing (IMC804)",
+"deskripsi": "Sesi awal ini memberikan gambaran menyeluruh mengenai rencana studi, kontrak perkuliahan, \ndan fondasi utama dalam ekosistem komputasi nirkabel serta perangkat bergerak.",
+"cta": [
+{
+"text": "Kontrak Kuliah",
+"link": "#kontrak",
+"icon": "lock"
+},
+{
+"text": "Materi PDF",
+"link": "#download",
+"icon": "book"
+}
+]
+}
+},
+{
+"section": "stats",
+"caption": "Definisi & Konsep Dasar",
+"content": [
+{
+"id": 1,
+"nama": "Wireless Computing",
+"isi": "Komputasi yang memanfaatkan teknologi transmisi data tanpa menggunakan kabel.",
+"icon": "code/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 2,
+"nama": "Mobile Computing",
+"isi": "Kemampuan komputasi yang dilakukan saat pengguna sedang berpindah tempat (on the move).",
+"icon": "user/32/var(--pColor)",
+"url": "#"
+},
+{
+"id": 3,
+"nama": "Konektivitas",
+"isi": "Integrasi antara perangkat mobile dengan infrastruktur jaringan nirkabel secara real-time.",
+"icon": "users/32/var(--pColor)",
+"url": "#"
+}
+]
+},
+{
+"section": "progress",
+"caption": "Indikator Keberhasilan & Bobot",
+"content": [
+{
+"label": "Ketepatan Definisi",
+"percent": 40,
+"value": "Tepat"
+},
+{
+"label": "Penguasaan Komponen",
+"percent": 40,
+"value": "Menguasai"
+},
+{
+"label": "Bobot Penilaian Sesi 1",
+"percent": 5,
+"value": "5%"
+}
+]
+},
+{
+"section": "table",
+"caption": "Referensi Studi & Metode Pembelajaran",
+"content": [
+{
+"Kategori": "Referensi Utama 1",
+"Keterangan": "Stallings, W. (2017): Wireless Communications & Networks"
+},
+{
+"Kategori": "Referensi Utama 2",
+"Keterangan": "Saha, D., & Mukherjee, A. (2013): Mobile Computing"
+},
+{
+"Kategori": "Metode",
+"Keterangan": "Kuliah dan Diskusi (Tatap Muka)"
+},
+{
+"Kategori": "Estimasi Waktu",
+"Keterangan": "TM: 2x50 Menit | BM: 3x60 Menit"
+}
+]
+},
+
+{
+"section": "btn",
+"btn": [
+{"text": "Menu","modal": "web/side/modules","icon": "menu"},
+{"text": "Lanjut","url": "web/page/modul02","icon": "next"}
+]
+}
+
+]
+}

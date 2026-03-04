@@ -1,0 +1,115 @@
+{
+  "page": "profile_mahasiswa_imc804",
+  "data": [
+    {
+      "section": "header",
+      "content": {
+        "nama": "Profil Akademik",
+        "tagline": "Data Mahasiswa & Progres Kompetensi",
+        "deskripsi": "Kelola informasi pribadi, pantau pencapaian modul, dan atur sinkronisasi perangkat mobile Anda.",
+        "cta": [
+          {
+            "text": "Edit Profil",
+            "link": "#edit_profile",
+            "icon": "user"
+          },
+          {
+            "text": "Log Out",
+            "link": "#logout",
+            "icon": "lock"
+          }
+        ]
+      }
+    },
+    {
+      "section": "stats",
+      "caption": "Pencapaian Kompetensi (Badges)",
+      "content": [
+        {
+          "id": 1,
+          "nama": "Network Guru",
+          "isi": "Modul 1-7 Selesai",
+          "icon": "home/32/var(--pColor)",
+          "url": "#badge_network"
+        },
+        {
+          "id": 2,
+          "nama": "PWA Ready",
+          "isi": "Service Worker Aktif",
+          "icon": "code/32/var(--pColor)",
+          "url": "#badge_pwa"
+        },
+        {
+          "id": 3,
+          "nama": "UX Designer",
+          "isi": "Wireframe Disetujui",
+          "icon": "check/32/var(--pColor)",
+          "url": "#badge_ux"
+        }
+      ]
+    },
+    {
+      "section": "progress",
+      "caption": "Informasi Mahasiswa",
+      "content": [
+        {
+          "label": "Nama: Ahmad Informatika",
+          "percent": 100,
+          "value": "Verified"
+        },
+        {
+          "label": "NIM: 2024010001",
+          "percent": 100,
+          "value": "Aktif"
+        },
+        {
+          "label": "SKS Mobile Computing",
+          "percent": 75,
+          "value": "3 SKS"
+        }
+      ]
+    },
+    {
+      "section": "table",
+      "caption": "Konfigurasi Perangkat & Sync",
+      "content": [
+        {
+          "Fitur": "Status PWA",
+          "Keterangan": "Installed (v2.1.0)"
+        },
+        {
+          "Fitur": "Last Sync",
+          "Keterangan": "5 Maret 2026, 00:04 WIB"
+        },
+        {
+          "Fitur": "Database Lokal",
+          "Keterangan": "IndexedDB (2.4 MB Used)"
+        },
+        {
+          "Fitur": "Notifikasi",
+          "Keterangan": "Enabled (Push API)"
+        }
+      ]
+    },
+    {
+      "section": "btn",
+      "btn": [
+        {
+          "text": "Ganti Password",
+          "url": "#change_pass",
+          "icon": "lock"
+        },
+        {
+          "text": "Hapus Cache Lokal",
+          "url": "#clear_cache",
+          "icon": "setting"
+        },
+        {
+          "text": "Bantuan Teknis",
+          "url": "#support",
+          "icon": "search"
+        }
+      ]
+    }
+  ]
+}

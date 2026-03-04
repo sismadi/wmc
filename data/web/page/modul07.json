@@ -1,0 +1,103 @@
+{
+"page": "pertemuan_7_review_uts",
+"data": [
+{
+"section": "header",
+"content": {
+"nama": "Pertemuan 7: Review Komprehensif (Persiapan UTS)",
+"tagline": "Mata Kuliah: Wireless & Mobile Computing (IMC804)",
+"deskripsi": "Sesi pengulasan materi dari Minggu 1 hingga 6 untuk memastikan penguasaan \nteori, konsep, dan operasi sistem sebelum Evaluasi Tengah Semester (UTS).",
+"cta": [
+{
+"text": "Bank Soal",
+"link": "#quiz-bank",
+"icon": "book"
+},
+{
+"text": "Jadwal UTS",
+"link": "#schedule",
+"icon": "alert"
+}
+]
+}
+},
+{
+"section": "stats",
+"caption": "Pilar Utama Kurikulum UTS",
+"content": [
+{
+"id": 1,
+"nama": "Infrastruktur",
+"isi": "Fondasi Wireless Computing, WPAN, WLAN, WMAN, dan WWAN (5G).",
+"icon": "home/32/var(--pColor)",
+"url": "#modul-1"
+},
+{
+"id": 2,
+"nama": "Arsitektur OS",
+"isi": "Kernel, Middleware, Application Framework, dan Manajemen Daya.",
+"icon": "setting/32/var(--pColor)",
+"url": "#modul-2"
+},
+{
+"id": 3,
+"nama": "Mobile Web",
+"isi": "HTML5, CSS3, Media Queries, Native vs Hybrid, dan Optimasi Performa.",
+"icon": "code/32/var(--pColor)",
+"url": "#modul-3"
+}
+]
+},
+{
+"section": "progress",
+"caption": "Kesiapan & Parameter Ujian",
+"content": [
+{
+"label": "Cakupan Materi (Minggu 1-6)",
+"percent": 100,
+"value": "Lengkap"
+},
+{
+"label": "Target Kelulusan Review",
+"percent": 85,
+"value": "Tinggi"
+},
+{
+"label": "Bobot Penilaian Sesi 7",
+"percent": 10,
+"value": "10%"
+}
+]
+},
+{
+"section": "table",
+"caption": "Ringkasan Modul Pembelajaran",
+"content": [
+{
+"Modul": "I: Fondasi",
+"Topik Utama": "Klasifikasi Jaringan & Tantangan Mobilitas",
+"Fokus": "Hardware & Transmisi"
+},
+{
+"Modul": "II: Sistem",
+"Topik Utama": "Arsitektur OS & Manajemen Memori Dinamis",
+"Fokus": "Internal Software"
+},
+{
+"Modul": "III: Aplikasi",
+"Topik Utama": "Responsive Web Design & Hybrid Strategy",
+"Fokus": "User Experience"
+}
+]
+},
+{
+"section": "btn",
+"btn": [
+{"text": "Menu","modal": "web/side/modules","icon": "menu"},
+{"text": "Kembali","url": "web/page/modul06","icon": "prev"},
+{"text": "Lanjut","url": "web/page/modul08","icon": "next"}
+]
+}
+
+]
+}
