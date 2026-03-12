@@ -9,9 +9,8 @@ config={
   db:'web',
   getdata:function(id){ return config.api ? `http://localhost/api/?${id}` : `data/${id}.json`; },
   getside:function(id){ return config.api ? `http://localhost/api/?${id}` : `data/web/side/${id}.json`; },
-  lms: {
-  cert:'data/lms/cert.png',
-  },
+  cert:'data/web/cert/cert.png',
+  lms: {},
 apps: [
   {icon:"setting",name:"gen JSON",modal:"web/layout/1"},
 

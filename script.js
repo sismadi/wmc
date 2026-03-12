@@ -12,7 +12,7 @@ leftMenu.addEventListener('click', (event) => {
 
 
 
-    loadSVGLibraries(['https://donat.sismadi.com/svg/data.json']);
+    loadSVGLibraries(['/al/svg/svg.json']);
     addIcon('custom-star', "M 12 2 L 15 9 L 22 9 L 16 14 L 18 21 L 12 17 L 6 21 L 8 14 L 2 9 L 9 9 Z");
     addIcon('double-box', {
         viewBox: "0 0 24 24",
